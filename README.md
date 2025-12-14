@@ -1,7 +1,5 @@
 # 👋 Hi, I'm MohamedShuhad
 
-# 👋 Hi, I'm Master
-
 🎓 Undergraduate Student | 💻 Aspiring Software & Web Developer  
 
 ---

@@ -1,40 +1,62 @@
 # 👋 Hi, I'm MohamedShuhad
 
-🎓 Undergraduate Student | 💻 Aspiring Web Developer  
+# 👋 Hi, I'm Master
+
+🎓 Undergraduate Student | 💻 Aspiring Software & Web Developer  
 
 ---
 
-## 🚀 About Me
-- 🌱 Currently learning **Web Development**
-- 🧠 Exploring **HTML, CSS, JavaScript, React & Next.js**
-- 🛠️ I love building **real-world projects** and learning by doing
-- 🎯 Goal: Become a **professional web developer**
+## 👨‍💻 About Me
+I am an undergraduate student passionate about software development and modern web technologies.  
+I enjoy learning by building projects and continuously improving my technical skills.
+
+- 🌱 Currently learning and practicing **Web Development**
+- ⚛️ Exploring **React & Next.js**
+- 🧠 Programming with **Kotlin** and **Python**
+- 🎯 Career Goal: Become a **professional software / web developer**
 
 ---
 
 ## 🧰 Tech Stack
-- 🌐 Frontend: HTML, CSS, JavaScript
-- ⚛️ Frameworks: React, Next.js
-- 🗄️ Basics: Git & GitHub
-- 🧑‍💻 Tools: VS Code
+
+### 🌐 Web Development
+- HTML5  
+- CSS3  
+- JavaScript  
+- React  
+- Next.js  
+
+### 💻 Programming Languages
+- Kotlin  
+- Python  
+- C (Basics)
+
+### 🛠️ Tools & Technologies
+- Git & GitHub  
+- VS Code  
+- Linux (Basics)
+
+---
+
+## 📊 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?mastershuhad=mastershuhad&show_icons=true&theme=default)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?mastershuhad=ymastershuhad&layout=compact&theme=default)
 
 ---
 
 ## 📌 Current Focus
-- Improving JavaScript skills
-- Learning React & Next.js step by step
-- Building small projects to strengthen fundamentals
-
----
-
-## 📈 Learning Philosophy
-> *Code. Break it. Fix it. Learn from it.*
+- Strengthening JavaScript fundamentals
+- Building projects with React & Next.js
+- Practicing problem-solving using Kotlin & Python
 
 ---
 
 ## 🤝 Connect With Me
-- 💼 GitHub:https://github.com/mastershuhad
+- 🔗 GitHub: https://github.com/your-username
 
 ---
 
-⭐ Feel free to explore my repositories and follow my learning journey!
+⭐ Thank you for visiting my profile. Feel free to explore my repositories and follow my learning journey.
+

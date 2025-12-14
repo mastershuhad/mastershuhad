@@ -1,4 +1,4 @@
-# 👋 Hi, I'm MohamedShuhad
+# 👋 Hi, I'm Mohamed Shuhad
 
 🎓 Undergraduate Student | 💻 Aspiring Software & Web Developer  
 
@@ -6,7 +6,7 @@
 
 ## 👨‍💻 About Me
 I am an undergraduate student passionate about software development and modern web technologies.  
-I enjoy learning by building projects and continuously improving my technical skills.
+I enjoy learning by building real-world projects and continuously improving my technical skills.
 
 - 🌱 Currently learning and practicing **Web Development**
 - ⚛️ Exploring **React & Next.js**
@@ -38,9 +38,9 @@ I enjoy learning by building projects and continuously improving my technical sk
 
 ## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?mastershuhad=mastershuhad&show_icons=true&theme=default)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mastershuhad&show_icons=true&theme=default)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?mastershuhad=ymastershuhad&layout=compact&theme=default)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mastershuhad&layout=compact&theme=default)
 
 ---
 
@@ -52,9 +52,8 @@ I enjoy learning by building projects and continuously improving my technical sk
 ---
 
 ## 🤝 Connect With Me
-- 🔗 GitHub: https://github.com/your-username
+- 🔗 GitHub: https://github.com/mastershuhad
 
 ---
 
 ⭐ Thank you for visiting my profile. Feel free to explore my repositories and follow my learning journey.
-

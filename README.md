@@ -36,14 +36,6 @@ I enjoy learning by building real-world projects and continuously improving my t
 
 ---
 
-## 📊 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mastershuhad&show_icons=true&theme=default)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mastershuhad&layout=compact&theme=default)
-
----
-
 ## 📌 Current Focus
 - Strengthening JavaScript fundamentals
 - Building projects with React & Next.js

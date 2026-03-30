@@ -1,13 +1,51 @@
-<div style="animation: fadeIn 2s;">
-  <h1>👋 Hi, I'm [Your Name]</h1>
-  <p>🌟 I’m a passionate developer with a knack for creating web applications that make life easier.</p>
-  <p>✨ I love exploring new technologies and sharing my knowledge with the community!</p>
-  <p>📫 You can reach me at [Your Email]</p>
-</div>
+# 👋 Hi, I'm Mohamed Shuhad
 
-<style>
-@keyframes fadeIn {
-  from { opacity: 0; }
-  to { opacity: 1; }
-}
-</style>
+🎓 Undergraduate Student | 💻 Aspiring Software & Web Developer  
+
+---
+
+## 👨‍💻 About Me
+I am an undergraduate student passionate about software development and modern web technologies.  
+I enjoy learning by building real-world projects and continuously improving my technical skills.
+
+- 🌱 Currently learning and practicing **Web Development**
+- ⚛️ Exploring **React & Next.js**
+- 🧠 Programming with **Kotlin** and **Python**
+- 🎯 Career Goal: Become a **professional software / web developer**
+
+---
+
+## 🧰 Tech Stack
+
+### 🌐 Web Development
+- HTML5  
+- CSS3  
+- JavaScript  
+- React  
+- Next.js  
+
+### 💻 Programming Languages
+- Kotlin  
+- Python  
+- C (Basics)
+
+### 🛠️ Tools & Technologies
+- Git & GitHub  
+- VS Code  
+- Linux (Basics)
+
+---
+
+## 📌 Current Focus
+- Strengthening JavaScript fundamentals
+- Building projects with React & Next.js
+- Practicing problem-solving using Kotlin & Python
+
+---
+
+## 🤝 Connect With Me
+- 🔗 GitHub: https://github.com/mastershuhad
+
+---
+
+⭐ Thank you for visiting my profile. Feel free to explore my repositories and follow my learning journey.

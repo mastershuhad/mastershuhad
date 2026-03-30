@@ -1,11 +1,11 @@
 <div align="center">
 
 <!-- Animated Header -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Mohamed%20Shuhad&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Software%20%7C%20Web%20%7C%20App%20Developer&descAlignY=51&descAlign=50" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Mohamed%20Shuhad&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Undergraduate%20%7C%20Learning%20Web%20%26%20App%20Development&descAlignY=51&descAlign=50" width="100%"/>
 
 <!-- Typing Animation -->
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Aspiring+Software+Developer+%F0%9F%92%BB;Web+%26+App+Developer+%F0%9F%9A%80;React+%26+Next.js+Enthusiast+%E2%9A%9B%EF%B8%8F;Kotlin+%26+Python+Programmer+%F0%9F%90%8D;Always+Learning%2C+Always+Building+%F0%9F%8C%B1" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Learning+Software+Development+%F0%9F%92%BB;Exploring+Web+%26+App+Dev+%F0%9F%9A%80;React+%26+Next.js+Learner+%E2%9A%9B%EF%B8%8F;Practicing+Kotlin+%26+Python+%F0%9F%90%8D;Growing+One+Commit+at+a+Time+%F0%9F%8C%B1" alt="Typing SVG" />
 </a>
 
 <br/>
@@ -23,20 +23,22 @@
 ```kotlin
 data class Developer(
     val name: String     = "Mohamed Shuhad",
-    val role: List<String> = listOf(
-        "Software Developer",
-        "Web Developer",
-        "App Developer"
+    val status: String   = "Undergraduate Student & Passionate Learner 📚",
+    val learning: List<String> = listOf(
+        "Web Development",
+        "App Development",
+        "Software Development"
     ),
-    val education: String = "Undergraduate Student @ University of Kelaniya",
+    val education: String = "University of Kelaniya 🎓",
     val location: String  = "Sri Lanka 🇱🇰",
-    val currentFocus: List<String> = listOf(
-        "Mastering JavaScript & React",
-        "Building with Next.js",
-        "Android App Dev with Kotlin",
-        "Problem Solving with Python"
+    val currentlyExploring: List<String> = listOf(
+        "JavaScript & React",
+        "Next.js",
+        "Android with Kotlin",
+        "Python & Problem Solving"
     ),
-    val goal: String = "Professional Software & Web Developer 🎯"
+    val goal: String = "Become a Professional Software & Web Developer 🎯",
+    val funFact: String  = "I learn best by building real projects 🔨"
 )
 ```
 
@@ -105,13 +107,13 @@ data class Developer(
 
 ---
 
-## 📌 What I'm Currently Working On
+## 📌 What I'm Currently Learning
 
 ```
-🌐  Building full-stack web apps with Next.js & Node.js
-📱  Developing Android apps using Kotlin & Jetpack Compose
-⚛️   Strengthening React component architecture
-🧠  Solving DSA problems in Python & Kotlin
+🌐  Web development with Next.js & Node.js
+📱  Android app development using Kotlin & Jetpack Compose
+⚛️   React component patterns & JavaScript fundamentals
+🧠  Data Structures & Algorithms in Python & Kotlin
 🔥  Exploring Firebase for backend integration
 ```
 
@@ -158,6 +160,6 @@ data class Developer(
 <!-- Footer Wave -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" width="100%"/>
 
-<i>⭐ "Code is not just a skill — it's a craft. Keep building, keep growing."</i>
+<i>⭐ "Every expert was once a beginner. Keep learning, keep building." 🌱</i>
 
 </div>

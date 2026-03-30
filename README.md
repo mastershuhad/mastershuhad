@@ -1,12 +1,10 @@
 <div align="center">
 
-<!-- Animated Header Banner -->
-<img width="100%" src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=40&pause=1000&color=58A6FF&center=true&vCenter=true&width=900&height=100&lines=Hi+%F0%9F%91%8B+I'm+Mohamed+Shuhad;Software+%7C+Web+%7C+App+Developer" alt="Header" />
+<!-- Top Wave -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a3a6b,100:58A6FF&height=160&section=header&text=Mohamed%20Shuhad&fontSize=42&fontColor=ffffff&fontAlignY=38&animation=fadeIn&desc=Software%20%7C%20Web%20%7C%20App%20Developer&descAlignY=58&descSize=18" alt="header wave"/>
 
-<!-- Typing Animation -->
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Aspiring+Software+Developer+%F0%9F%92%BB;Web+%26+App+Developer+%F0%9F%9A%80;React+%26+Next.js+Enthusiast+%E2%9A%9B%EF%B8%8F;Kotlin+%26+Python+Programmer+%F0%9F%90%8D;Always+Learning%2C+Always+Building+%F0%9F%8C%B1" alt="Typing SVG" />
-</a>
+<!-- Typing Animation (subtitle) -->
+<img width="100%" src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=900&height=50&lines=Aspiring+Software+Developer+%F0%9F%92%BB;Web+%26+App+Developer+%F0%9F%9A%80;React+%26+Next.js+Enthusiast+%E2%9A%9B%EF%B8%8F;Kotlin+%26+Python+Programmer+%F0%9F%90%8D;Always+Learning%2C+Always+Building+%F0%9F%8C%B1" alt="Typing SVG" />
 
 <br/>
 
@@ -159,5 +157,10 @@ data class Developer(
 <br/><br/>
 
 <i>⭐ "Every expert was once a beginner. Keep learning, keep building." 🌱</i>
+
+<br/><br/>
+
+<!-- Bottom Wave -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:58A6FF,50:1a3a6b,100:0d1117&height=120&section=footer" alt="footer wave"/>
 
 </div>

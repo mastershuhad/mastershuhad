@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- Top Wave -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a3a6b,100:58A6FF&height=160&section=header&text=Mohamed%20Shuhad&fontSize=42&fontColor=ffffff&fontAlignY=38&animation=fadeIn&desc=Software%20%7C%20Web%20%7C%20App%20Developer&descAlignY=58&descSize=18" alt="header wave"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:FF6B6B,25:FF8E53,50:FFC75F,75:6BCB77,100:4D96FF&height=160&section=header&text=Mohamed%20Shuhad&fontSize=42&fontColor=ffffff&fontAlignY=38&animation=fadeIn&desc=Software%20%7C%20Web%20%7C%20App%20Developer&descAlignY=58&descSize=18" alt="header wave"/>
 
 <!-- Typing Animation (subtitle) -->
 <img width="100%" src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=900&height=50&lines=Aspiring+Software+Developer+%F0%9F%92%BB;Web+%26+App+Developer+%F0%9F%9A%80;React+%26+Next.js+Enthusiast+%E2%9A%9B%EF%B8%8F;Kotlin+%26+Python+Programmer+%F0%9F%90%8D;Always+Learning%2C+Always+Building+%F0%9F%8C%B1" alt="Typing SVG" />

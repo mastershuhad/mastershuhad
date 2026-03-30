@@ -1,7 +1,7 @@
 <div align="center">
 
-<!-- Animated Header -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Mohamed%20Shuhad&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Undergraduate%20%7C%20Learning%20Web%20%26%20App%20Development&descAlignY=51&descAlign=50" width="100%"/>
+<!-- Animated Header Banner -->
+<img width="100%" src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=40&pause=1000&color=58A6FF&center=true&vCenter=true&width=900&height=100&lines=Hi+%F0%9F%91%8B+I'm+Mohamed+Shuhad;Undergraduate+%7C+Learner+%7C+Builder" alt="Header" />
 
 <!-- Typing Animation -->
 <a href="https://git.io/typing-svg">
@@ -160,8 +160,7 @@ data class Developer(
 
 <br/><br/>
 
-<!-- Footer Wave -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" width="100%"/>
+---
 
 <i>⭐ "Every expert was once a beginner. Keep learning, keep building." 🌱</i>
 

@@ -1,11 +1,11 @@
 <div align="center">
 
 <!-- Animated Header Banner -->
-<img width="100%" src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=40&pause=1000&color=58A6FF&center=true&vCenter=true&width=900&height=100&lines=Hi+%F0%9F%91%8B+I'm+Mohamed+Shuhad;Undergraduate+%7C+Learner+%7C+Builder" alt="Header" />
+<img width="100%" src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=40&pause=1000&color=58A6FF&center=true&vCenter=true&width=900&height=100&lines=Hi+%F0%9F%91%8B+I'm+Mohamed+Shuhad;Software+%7C+Web+%7C+App+Developer" alt="Header" />
 
 <!-- Typing Animation -->
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Learning+Software+Development+%F0%9F%92%BB;Exploring+Web+%26+App+Dev+%F0%9F%9A%80;React+%26+Next.js+Learner+%E2%9A%9B%EF%B8%8F;Practicing+Kotlin+%26+Python+%F0%9F%90%8D;Growing+One+Commit+at+a+Time+%F0%9F%8C%B1" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Aspiring+Software+Developer+%F0%9F%92%BB;Web+%26+App+Developer+%F0%9F%9A%80;React+%26+Next.js+Enthusiast+%E2%9A%9B%EF%B8%8F;Kotlin+%26+Python+Programmer+%F0%9F%90%8D;Always+Learning%2C+Always+Building+%F0%9F%8C%B1" alt="Typing SVG" />
 </a>
 
 <br/>
@@ -23,21 +23,20 @@
 ```kotlin
 data class Developer(
     val name: String     = "Mohamed Shuhad",
-    val status: String   = "Undergraduate Student & Passionate Learner 📚",
-    val learning: List<String> = listOf(
-        "Web Development",
-        "App Development",
-        "Software Development"
+    val role: List<String> = listOf(
+        "Software Developer",
+        "Web Developer",
+        "App Developer"
     ),
-    val education: String = "University of Kelaniya 🎓",
+    val education: String = "Undergraduate Student @ University of Kelaniya",
     val location: String  = "Sri Lanka 🇱🇰",
-    val currentlyExploring: List<String> = listOf(
-        "JavaScript & React",
-        "Next.js",
-        "Android with Kotlin",
-        "Python & Problem Solving"
+    val currentFocus: List<String> = listOf(
+        "Mastering JavaScript & React",
+        "Building with Next.js",
+        "Android App Dev with Kotlin",
+        "Problem Solving with Python"
     ),
-    val goal: String = "Become a Professional Software & Web Developer 🎯",
+    val goal: String = "Become a skilled Software & Web Developer 🎯",
     val funFact: String  = "I learn best by building real projects 🔨"
 )
 ```
@@ -110,13 +109,13 @@ data class Developer(
 
 ---
 
-## 📌 What I'm Currently Learning
+## 📌 What I'm Currently Working On
 
 ```
-🌐  Web development with Next.js & Node.js
-📱  Android app development using Kotlin & Jetpack Compose
-⚛️   React component patterns & JavaScript fundamentals
-🧠  Data Structures & Algorithms in Python & Kotlin
+🌐  Building full-stack web apps with Next.js & Node.js
+📱  Developing Android apps using Kotlin & Jetpack Compose
+⚛️   Strengthening React component architecture
+🧠  Solving DSA problems in Python & Kotlin
 🔥  Exploring Firebase for backend integration
 ```
 
@@ -155,12 +154,9 @@ data class Developer(
 
 <div align="center">
 
-<!-- Contribution Grid (no GitHub Actions needed) -->
 <img src="https://ghchart.rshah.org/58A6FF/mastershuhad" alt="Mohamed Shuhad's Contribution Chart" width="100%"/>
 
 <br/><br/>
-
----
 
 <i>⭐ "Every expert was once a beginner. Keep learning, keep building." 🌱</i>
 

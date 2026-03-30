@@ -99,7 +99,7 @@ data class Developer(
 
 <div align="center">
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=mastershuhad&theme=tokyonight&no-frame=true&row=1&column=7)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=mastershuhad&theme=tokyonight&no-frame=true&margin-w=4&margin-h=4&row=1&column=6)](https://github.com/ryo-ma/github-profile-trophy)
 
 </div>
 
@@ -131,9 +131,18 @@ data class Developer(
 
 <div align="center">
 
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mastershuhad)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/mastershuhad)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/mastershuhad)
+<a href="https://github.com/mastershuhad">
+  <img src="https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+<a href="https://linkedin.com/in/mastershuhad">
+  <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+<a href="https://twitter.com/mastershuhad">
+  <img src="https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=X&logoColor=white"/>
+</a>
+<a href="mailto:mastershuhad@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
 
 </div>
 
@@ -141,10 +150,10 @@ data class Developer(
 
 <div align="center">
 
-<!-- Snake Animation -->
-<img src="https://raw.githubusercontent.com/mastershuhad/mastershuhad/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
+<!-- Contribution Grid (no GitHub Actions needed) -->
+<img src="https://ghchart.rshah.org/58A6FF/mastershuhad" alt="Mohamed Shuhad's Contribution Chart" width="100%"/>
 
-<br/>
+<br/><br/>
 
 <!-- Footer Wave -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" width="100%"/>

@@ -1,1 +1,13 @@
-<!DOCTYPE html>\n<html lang="en">\n<head>\n    <meta charset="UTF-8">\n    <meta name="viewport" content="width=device-width, initial-scale=1.0">\n    <title>Profile Bio</title>\n    <style>\n        body {\n            font-family: Arial, sans-serif;\n            background: linear-gradient(to right, #ff7e5f, #feb47b);\n            color: white;\n            margin: 0;\n            padding: 20px;\n            text-align: center;\n            transition: all 0.5s ease;\n        }\n        .typewriter {\n            border-right: 2px solid white;\n            white-space: nowrap;\n            overflow: hidden;\n            animation: typing 3s steps(30, end), blink-caret 0.75s step-end infinite;\n        }\n        @keyframes typing {\n            from { width: 0; }\n            to { width: 100%; }\n        }\n        @keyframes blink-caret {\n            from, to { border-color: transparent; }\n            50% { border-color: white; }\n        }\n        .tech-stack {\n            display: flex;\n            justify-content: center;\n            flex-wrap: wrap;\n            margin-top: 20px;\n        }\n        .card {\n            background: rgba(255, 255, 255, 0.1);\n            border: 2px solid white;\n            border-radius: 10px;\n            padding: 20px;\n            margin: 10px;\n            transition: transform 0.3s;\n        }\n        .card:hover {\n            transform: scale(1.1);\n        }\n    </style>\n</head>\n<body>\n    <h1>Welcome to My Profile</h1>\n    <div class="typewriter">I'm a Web Developer!</div>\n    <div class="tech-stack">\n        <div class="card">HTML</div>\n        <div class="card">CSS</div>\n        <div class="card">JavaScript</div>\n        <div class="card">React</div>\n        <div class="card">Node.js</div>\n    </div>\n</body>\n</html>\n
+<div style="animation: fadeIn 2s;">
+  <h1>👋 Hi, I'm [Your Name]</h1>
+  <p>🌟 I’m a passionate developer with a knack for creating web applications that make life easier.</p>
+  <p>✨ I love exploring new technologies and sharing my knowledge with the community!</p>
+  <p>📫 You can reach me at [Your Email]</p>
+</div>
+
+<style>
+@keyframes fadeIn {
+  from { opacity: 0; }
+  to { opacity: 1; }
+}
+</style>

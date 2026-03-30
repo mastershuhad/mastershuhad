@@ -97,11 +97,14 @@ data class Developer(
 
 ---
 
-## 🏆 GitHub Trophies
+## 🏆 Achievements & Milestones
 
 <div align="center">
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=mastershuhad&theme=tokyonight&no-frame=true&margin-w=4&margin-h=4&row=1&column=6)](https://github.com/ryo-ma/github-profile-trophy)
+![Stars](https://img.shields.io/github/stars/mastershuhad?style=for-the-badge&logo=github&color=58A6FF&labelColor=0D1117&label=Total%20Stars)
+![Repos](https://img.shields.io/badge/dynamic/json?style=for-the-badge&logo=github&color=58A6FF&labelColor=0D1117&label=Public%20Repos&query=public_repos&url=https://api.github.com/users/mastershuhad)
+![Followers](https://img.shields.io/github/followers/mastershuhad?style=for-the-badge&logo=github&color=58A6FF&labelColor=0D1117&label=Followers)
+![Last Commit](https://img.shields.io/github/last-commit/mastershuhad/mastershuhad?style=for-the-badge&logo=github&color=58A6FF&labelColor=0D1117&label=Last%20Commit)
 
 </div>
 

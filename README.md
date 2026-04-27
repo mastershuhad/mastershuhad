@@ -1,139 +1,4 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Mohamed Shuhad - GitHub README</title>
-    <style>
-        * {
-            margin: 0;
-            padding: 0;
-            box-sizing: border-box;
-        }
-
-        body {
-            background: linear-gradient(135deg, #0a0a0a 0%, #0D1117 100%);
-            font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Fira Code', monospace;
-            padding: 40px 20px;
-            color: #ffffff;
-        }
-
-        .container {
-            max-width: 1200px;
-            margin: 0 auto;
-            background: #0D1117;
-            border-radius: 20px;
-            box-shadow: 0 20px 60px rgba(0,0,0,0.5);
-            overflow: hidden;
-            position: relative;
-        }
-
-        .copy-btn-container {
-            position: sticky;
-            top: 20px;
-            z-index: 1000;
-            display: flex;
-            justify-content: flex-end;
-            padding: 20px 30px;
-            background: transparent;
-        }
-
-        .copy-btn {
-            background: linear-gradient(135deg, #58A6FF, #3b82f6);
-            color: white;
-            border: none;
-            padding: 12px 28px;
-            font-size: 16px;
-            font-weight: 600;
-            border-radius: 50px;
-            cursor: pointer;
-            font-family: 'Fira Code', monospace;
-            transition: all 0.3s ease;
-            box-shadow: 0 4px 15px rgba(88, 166, 255, 0.3);
-            display: flex;
-            align-items: center;
-            gap: 10px;
-        }
-
-        .copy-btn:hover {
-            transform: translateY(-2px);
-            box-shadow: 0 6px 20px rgba(88, 166, 255, 0.5);
-            background: linear-gradient(135deg, #6cb4ff, #4a90e2);
-        }
-
-        .copy-btn:active {
-            transform: translateY(0);
-        }
-
-        .copy-btn.copied {
-            background: linear-gradient(135deg, #10b981, #059669);
-            box-shadow: 0 4px 15px rgba(16, 185, 129, 0.3);
-        }
-
-        .readme-content {
-            padding: 0 20px 20px 20px;
-        }
-
-        .toast {
-            position: fixed;
-            bottom: 30px;
-            right: 30px;
-            background: #10b981;
-            color: white;
-            padding: 12px 24px;
-            border-radius: 10px;
-            font-family: 'Fira Code', monospace;
-            font-size: 14px;
-            font-weight: 600;
-            z-index: 2000;
-            animation: slideIn 0.3s ease;
-            box-shadow: 0 4px 15px rgba(0,0,0,0.3);
-        }
-
-        @keyframes slideIn {
-            from {
-                transform: translateX(100%);
-                opacity: 0;
-            }
-            to {
-                transform: translateX(0);
-                opacity: 1;
-            }
-        }
-
-        /* GitHub Markdown Styles */
-        .markdown-body {
-            font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Noto Sans', Helvetica, Arial, sans-serif;
-            line-height: 1.6;
-        }
-
-        .markdown-body h1, .markdown-body h2, .markdown-body h3 {
-            border-bottom: 1px solid #21262d;
-            padding-bottom: 0.3em;
-        }
-
-        .markdown-body code {
-            background: #161b22;
-            padding: 0.2em 0.4em;
-            border-radius: 6px;
-            font-family: 'SF Mono', 'Fira Code', monospace;
-        }
-
-        img {
-            max-width: 100%;
-            height: auto;
-        }
-    </style>
-</head>
-<body>
-    <div class="container">
-        <div class="copy-btn-container">
-            <button class="copy-btn" id="copyBtn">
-                📋 Copy README.md
-            </button>
-        </div>
-        <div class="readme-content" id="readmeContent">
-            <div align="center">
+<div align="center">
 
 <!-- Top Wave -->
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:FF6B6B,25:FF8E53,50:FFC75F,75:6BCB77,100:4D96FF&height=160&section=header&text=Mohamed%20Shuhad&fontSize=42&fontColor=ffffff&fontAlignY=38&animation=fadeIn&desc=Software%20%7C%20Web%20%7C%20App%20Developer&descAlignY=58&descSize=18" alt="header wave"/>
@@ -172,3 +37,130 @@ data class Developer(
     val goal: String = "Become a skilled Software & Web Developer 🎯",
     val funFact: String  = "I learn best by building real projects 🔨"
 )
+```
+
+---
+
+## 🚀 Tech Stack & Tools
+
+<div align="center">
+
+### 🌐 Frontend & Web
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+
+### 📱 App Development
+![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
+![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
+![Jetpack Compose](https://img.shields.io/badge/Jetpack_Compose-4285F4?style=for-the-badge&logo=jetpack-compose&logoColor=white)
+
+### 💻 Programming Languages
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+
+### 🛠️ Tools & Platforms
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Android Studio](https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+
+</div>
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=mastershuhad&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=ffffff&icon_color=58A6FF" height="165"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mastershuhad&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=ffffff" height="165"/>
+
+</div>
+
+<div align="center">
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=mastershuhad&theme=tokyonight&hide_border=true&background=0D1117&ring=58A6FF&fire=FF6E6E&currStreakLabel=58A6FF)](https://git.io/streak-stats)
+
+</div>
+
+---
+
+## 🏆 Achievements & Milestones
+
+<div align="center">
+
+![Stars](https://img.shields.io/github/stars/mastershuhad?style=for-the-badge&logo=github&color=58A6FF&labelColor=0D1117&label=Total%20Stars)
+![Repos](https://img.shields.io/badge/dynamic/json?style=for-the-badge&logo=github&color=58A6FF&labelColor=0D1117&label=Public%20Repos&query=public_repos&url=https://api.github.com/users/mastershuhad)
+![Followers](https://img.shields.io/github/followers/mastershuhad?style=for-the-badge&logo=github&color=58A6FF&labelColor=0D1117&label=Followers)
+![Last Commit](https://img.shields.io/github/last-commit/mastershuhad/mastershuhad?style=for-the-badge&logo=github&color=58A6FF&labelColor=0D1117&label=Last%20Commit)
+
+</div>
+
+---
+
+## 📌 What I'm Currently Working On
+
+```
+🌐  Building full-stack web apps with Next.js & Node.js
+📱  Developing Android apps using Kotlin & Jetpack Compose
+⚛️   Strengthening React component architecture
+🧠  Solving DSA problems in Python & Kotlin
+🔥  Exploring Firebase for backend integration
+```
+
+---
+
+## 📈 Contribution Activity
+
+<div align="center">
+
+[![Shuhad's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=mastershuhad&bg_color=0D1117&color=58A6FF&line=58A6FF&point=FFFFFF&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+</div>
+
+---
+
+## 🤝 Connect With Me
+
+<div align="center">
+
+<a href="https://github.com/mastershuhad">
+  <img src="https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+<a href="https://linkedin.com/in/mastershuhad">
+  <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+<a href="https://twitter.com/mastershuhad">
+  <img src="https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=X&logoColor=white"/>
+</a>
+<a href="mailto:mastershuhad@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+</div>
+
+---
+
+<div align="center">
+
+<img src="https://ghchart.rshah.org/58A6FF/mastershuhad" alt="Mohamed Shuhad's Contribution Chart" width="100%"/>
+
+<br/><br/>
+
+<i>⭐ "Every expert was once a beginner. Keep learning, keep building." 🌱</i>
+
+<br/><br/>
+
+<!-- Bottom Wave -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:58A6FF,50:1a3a6b,100:0d1117&height=120&section=footer" alt="footer wave"/>
+
+</div>

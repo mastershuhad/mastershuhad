@@ -122,9 +122,11 @@ data class Developer(
 ## 📈 Contribution Activity
 
 <div align="center">
-
-[![Shuhad's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=mastershuhad&theme=tokyo-night&hide_border=true&area=true)](https://github.com/mastershuhad)
-
+  <img
+    src="https://github-readme-activity-graph.vercel.app/graph?username=mastershuhad&theme=tokyo-night&bg_color=0D1117&color=58A6FF&line=58A6FF&point=FFFFFF&area=true&hide_border=true"
+    alt="Shuhad's GitHub Activity Graph"
+    width="100%"
+  />
 </div>
 
 ---

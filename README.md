@@ -123,7 +123,7 @@ data class Developer(
 
 <div align="center">
 
-[![Shuhad's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=mastershuhad&bg_color=0D1117&color=58A6FF&line=58A6FF&point=FFFFFF&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Shuhad's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=mastershuhad&theme=tokyo-night&hide_border=true&area=true)](https://github.com/mastershuhad)
 
 </div>
 
